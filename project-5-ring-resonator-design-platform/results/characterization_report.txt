@@ -1,0 +1,32 @@
+============================================================
+RING RESONATOR CHARACTERIZATION REPORT
+============================================================
+
+DEVICE PARAMETERS
+------------------------------------------------------------
+Ring Radius          : 10.000 µm
+Effective Index      : 2.4000
+Self Coupling (t)    : 0.9000
+Loss Factor (a)      : 0.9800
+
+RESONANCE INFORMATION
+------------------------------------------------------------
+Detected Resonances : 6
+
+01. 1507.961592 nm
+02. 1523.204641 nm
+03. 1538.747750 nm
+04. 1554.610922 nm
+05. 1570.794159 nm
+06. 1587.337467 nm
+
+AVERAGE PERFORMANCE METRICS
+------------------------------------------------------------
+Average FSR          : 15.875175 nm
+Average FWHM         : 0.633405 nm
+Average Loaded Q     : 2444.02
+Average ER           : 3.36 dB
+Insertion Loss       : 0.0092 dB
+Average Finesse      : 25.33
+
+============================================================
