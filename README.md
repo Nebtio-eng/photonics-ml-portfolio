@@ -71,6 +71,24 @@ Each project is self-contained and follows a consistent workflow:
 
 ---
 
+## Project 5 – Ring Resonator Design Platform
+
+Machine learning surrogate modeling for silicon photonic ring resonators.
+
+### Features
+
+- Analytical ring resonator simulator
+- Automated dataset generation
+- Random Forest surrogate
+- XGBoost surrogate
+- PyTorch neural network surrogate
+- Automated evaluation and characterization
+
+📁 Folder:
+`project-5-ring-resonator-design-platform`
+
+---
+
 ## 🧠 Design Philosophy
 
 * Physics-first modeling
