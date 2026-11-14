@@ -3,8 +3,8 @@ message: "If you use this work, please cite it as below."
 type: software
 title: "Photonics + ML Design Portfolio"
 authors:
-  - given-names: "Benito Alappat"
-    family-names: "Tiny"
+  - given-names: "Alappat Tiny"
+    family-names: "Benito"
 date-released: "2026-11-14"
 license: MIT
 url: "https://github.com/Nebtio-eng/photonics-ml-portfolio"
