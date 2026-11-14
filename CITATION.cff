@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Photonics + ML Design Portfolio"
+authors:
+  - given-names: "Benito Alappat"
+    family-names: "Tiny"
+date-released: "2026-11-14"
+license: MIT
+url: "https://github.com/Nebtio-eng/photonics-ml-portfolio"
+repository-code: "https://github.com/Nebtio-eng/photonics-ml-portfolio"
